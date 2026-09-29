@@ -1,6 +1,6 @@
 # 🏦 ATM Banking System
 
-A simple console-based ATM Banking System developed using Python and Object-Oriented Programming (OOP).
+A simple console-based ATM Banking System developed using **Python** and **Object-Oriented Programming (OOP)**.
 
 ## 📌 Features
 
@@ -18,21 +18,30 @@ A simple console-based ATM Banking System developed using Python and Object-Orie
 * Object-Oriented Programming (OOP)
 * Console Input/Output
 
+## 📂 Project Structure
+
+```text
+ATM-Banking-System/
+│
+├── atm.py
+└── README.md
+```
+
 ## ▶️ How to Run
 
-1. Clone this repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/ATM-Banking-System.git
 ```
 
-2. Open the project folder:
+### 2. Open the project folder
 
 ```bash
 cd ATM-Banking-System
 ```
 
-3. Run the Python program:
+### 3. Run the Python program
 
 ```bash
 python atm.py
@@ -43,13 +52,29 @@ python atm.py
 For demonstration purposes:
 
 ```text
-PIN: 2005
+PIN: xxxx
 ```
+
+> ⚠️ This PIN is only for this demo project. Do not use real banking credentials.
+
+## 💻 Main Concepts Demonstrated
+
+* Classes and Objects
+* Constructors
+* Methods
+* Encapsulation
+* Conditional Statements
+* Loops
+* User Input
+* Input Validation
+* Basic Transaction Handling
 
 ## 🎯 Objective
 
-The objective of this project is to demonstrate Python programming fundamentals, object-oriented programming, user authentication, input validation, and basic banking transactions.
+The objective of this project is to demonstrate Python programming fundamentals, Object-Oriented Programming, user authentication, input validation, and basic banking transaction management.
 
 ## 👨‍💻 Author
 
-Ashwinn
+**Ashwinn**
+
+GitHub: [Your GitHub Profile](https://github.com/YOUR-USERNAME)
